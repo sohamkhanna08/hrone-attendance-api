@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+__init__.py
+# Candidate kit materials (provided by the company, not part of the submission)
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
+sample_data/
+sample_seed.py
